@@ -1,0 +1,15 @@
+html { 
+  background: url(image/imagen_fondo.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.contenido {
+  background-color:rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 40px;
+  height: 300px;
+  width: 300px;
+  margin: 100px auto;
+}
